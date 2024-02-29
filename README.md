@@ -48,7 +48,7 @@ P.S. Большинство проектов, над которыми я раб�
 
 #### Other tools:
 ```json
-["RabbitMQ", "Postman", "Prometheus", "Grafana"]
+["RabbitMQ", "Postman", "Prometheus", "Grafana", "UFW"]
 ```
 
 
