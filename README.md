@@ -27,7 +27,7 @@
 
 #### Databases:
 ```json
-["Mongo", "Postgres", "Redis", "SQLite"]
+["MongoDB", "Postgres", "Redis"]
 ```
 
 #### Deployment:
