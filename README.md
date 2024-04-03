@@ -22,7 +22,7 @@
 
 #### Back end:
 ```json
-["Python", "Djangot", "FastAPI", "Celery", "Poetry"]
+["Python", "Django", "FastAPI", "Celery", "Poetry"]
 ```
 
 #### Databases:
