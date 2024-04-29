@@ -19,15 +19,14 @@
 
 ## 🛠️ Tech Stack
 
+#### Databases:
+```json
+["MongoDB", "Postgres", "Redis"]
+```
 
 #### Backend:
 ```json
 ["Python", "Django", "FastAPI", "Celery", "Poetry"]
-```
-
-#### Databases:
-```json
-["MongoDB", "Postgres", "Redis"]
 ```
 
 #### Deployment:
