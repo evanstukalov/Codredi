@@ -20,7 +20,7 @@
 ## 🛠️ Tech Stack
 
 
-#### Back end:
+#### Backend:
 ```json
 ["Python", "Django", "FastAPI", "Celery", "Poetry"]
 ```
@@ -36,14 +36,9 @@
 ["Docker", "Ansible", "Linux", "Nginx", "Github Actions"]
 ```
 
-#### Serverless Databases:
-```json
-["Firebase", "Supabase", "BigQuery", "Neon", "Cloud Mongo"]
-```
-
 #### Other tools:
 ```json
-["RabbitMQ", "Postman", "Prometheus", "Grafana", "UFW"]
+["RabbitMQ", "Kafka", "Postman", "Prometheus", "Grafana", "Poetry", "mypy", "flake8"]
 ```
 
 
