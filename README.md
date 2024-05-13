@@ -38,7 +38,7 @@
 
 #### Other tools:
 ```json
-["RabbitMQ", "Kafka", "Postman", "Prometheus", "Grafana", "mypy", "flake8"]
+["RabbitMQ", "Kafka", "Postman", "Prometheus", "Grafana", "mypy", "flake8", "pydantic"]
 ```
 
 
